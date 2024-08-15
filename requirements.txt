@@ -1,11 +1,11 @@
 ollama
 PyPDF2==3.0.1
-streamlit==1.20.0
-langchain==0.2.32
-langchain-community==0.2.12
-langchain-text-splitters==0.2.2
+streamlit==1.32.1
+langchain==0.1.11
+langchain-community==0.0.28
+langchain-text-splitters
 pdfplumber==0.11.3
-unstructured==0.15.3
+unstructured
 chromadb
 streamlit 
 pdfplumber 
