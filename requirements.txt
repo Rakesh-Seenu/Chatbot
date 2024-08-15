@@ -1,4 +1,10 @@
-streamlit
-streamlit_chat
+ollama
+chromadb
+streamlit 
+pdfplumber 
 langchain
-sentence_transformers
+langchain-core
+langchain-community
+langchain_text_splitters
+unstructured
+unstructured[all-docs]
