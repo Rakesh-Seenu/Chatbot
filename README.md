@@ -5,6 +5,8 @@ URL for the chatbot : https://chatbot-go.streamlit.app/
 
 This project is a chatbot application that processes PDFs and answers questions using a Retrieval-Augmented Generation (RAG) approach. It includes functionality for handling PDF documents, text splitting, and integration with external APIs.
 
+![WhatsApp Image 2024-08-16 at 00 46 46_673aaa78](https://github.com/user-attachments/assets/2915362e-2e96-46ed-9662-7053b890cfe5)
+
 ## Features of this APP
 1. User Interface (UI)
    Streamlit Frontend:
