@@ -1,6 +1,4 @@
 # Chatbot Application
-URL for the chatbot : https://chatbot-go.streamlit.app/
-
 ## Description
 
 This project is a chatbot application that processes PDFs and answers questions using a Retrieval-Augmented Generation (RAG) approach. It includes functionality for handling PDF documents, text splitting, and integration with external APIs.
