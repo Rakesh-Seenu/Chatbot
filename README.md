@@ -10,9 +10,6 @@
 7. [Usage](#usage)
 8. [Components Explanation](#components-explanation)
 9. [Future Enhancements](#future-enhancements)
-10. [Contributing](#contributing)
-11. [License](#license)
-
 
 ## Introduction
 
@@ -144,23 +141,4 @@ The system follows a modular architecture with the following key components:
 - **LLM Customization**: Allow users to select different language models for question answering.
 
 ---
-
-## Contributing
-
-We welcome contributions to enhance the PDF ChatBot! Feel free to fork this repository, make changes, and submit a pull request. Make sure to follow the coding standards outlined in the project.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
---- 
-
-Enjoy interacting with your PDF content!
-
-### Prerequisites
-
-- Python 3.8 or higher
-- Virtual environment (recommended)
 
